@@ -25,6 +25,8 @@
     "@angular/router": "^19.0.0",
     "@angular/ssr": "^19.0.1",
     "bootstrap": "^5.3.3",
+    "dote": "^1.1.0",
+    "env": "^0.0.2",
     "express": "^4.18.2",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
