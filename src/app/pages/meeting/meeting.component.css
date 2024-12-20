@@ -1,0 +1,37 @@
+.meeting {
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: -50vh;
+    width: 100%;
+    margin-top: 30vh;
+    flex-direction: column;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    border-bottom: 10px;
+    box-sizing: border-box;
+    padding: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    text-shadow: none;
+    transition: box-shadow 0.5s ease;
+    cursor: pointer;
+}
+
+.meeting h1 {
+    text-align: inline;
+    padding: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.meeting a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    font-weight: medium;
+}

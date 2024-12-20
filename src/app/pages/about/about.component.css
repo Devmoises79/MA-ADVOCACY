@@ -1,0 +1,22 @@
+.sobre{
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+    border-radius: 10px;
+
+}
+
+.sobre h1 {
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+
+.sobre h1 p {
+    border-bottom: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
